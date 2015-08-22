@@ -5,7 +5,7 @@ description: 		'An experiment by Will Dearman'
 paginate:            5
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://willdearman.com" # the base hostname & protocol for your site
+url: "http://www.willdearman.com" # the base hostname & protocol for your site
 twitter_username: wtd
 github_username:  willdearman
 
