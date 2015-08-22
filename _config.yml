@@ -4,21 +4,19 @@ tagline:			'Boldly go...'
 description: 		'An experiment by Will Dearman'
 paginate:            5
 
-baseurl: "/willdearman" # the subpath of your site, e.g. /blog/
-url: "http://willdearman.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://willdearman.com" # the base hostname & protocol for your site
 twitter_username: wtd
 github_username:  willdearman
 
 # Build settings
 markdown: kramdown
 
-
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 relative_permalinks: true
-
 
 # About/contact
 author:
