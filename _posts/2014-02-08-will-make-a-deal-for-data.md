@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Will make a deal for data
-categories: []
-tags: ["value of data"]
+categories: ["value of data"]
 published: True
 
 ---
