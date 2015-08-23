@@ -14,13 +14,13 @@ I recently had the opportunity to conduct some ad hoc exploration of a large dat
 - Download and install [Teradata Studio Express 15](https://downloads.teradata.com/download/tools/teradata-studio-express) or the most reecnt version
 	- Make note the the install location of the files as you will need them in the connection string below:
 		- terajdbc4.jar
-{% highlight r %}
-C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\terajdbc4.jar
-{% endhighlight %}
+			{% highlight r %}
+			C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\terajdbc4.jar
+			{% endhighlight %}
 		- tdgssconfig.jar
-{% highlight r %}
-C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\tdgssconfig.jar
-{% endhighlight %}
+			{% highlight r %}
+			C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\tdgssconfig.jar
+			{% endhighlight %}
 
 - Upgrade your JAVA installation to the latest 64-bit version
 - Upgrade your R and R Studio installations and set to 64 bit mode
