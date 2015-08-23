@@ -53,7 +53,7 @@ print("Teradata connection established in variable 'con'")
 options(java.parameters = "-Xmx2048m")
 {% endhighlight %}
 
-- To close reduce the overhead on the Teradata source, use these commands in R:
+- To reduce the overhead on the Teradata source, use these commands in R to remove the temporary query results and close the connection:
 {% highlight r %}
 dbClearResult(CURRENT_QUERY_RESULT)
 dbDisconnect(con)

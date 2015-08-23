@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The is the personal blog of Will Dearman. The views expressed here are my own, and do not reflect those of current or past employers. You can find more about me on:
+- [LinkedIn](https://www.linkedin.com/in/willdearman)
+- [Github](https://github.com/willdearman)
+- [Twitter](https://twitter.com/wtd)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The blog is running [Jekyll](https://github.com/jekyll/jekyll) and hosted on [Github Pages](https://pages.github.com/).

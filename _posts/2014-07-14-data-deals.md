@@ -2,6 +2,7 @@
 title: More Data Deals
 author: 'Will Dearman'
 layout: post
+categories: ["value of data"]
 published: True
 ---
 Adding to my observations on the emerging awareness of the value of data, ProPublica reports generating [“well over” $30,000 in new revenue from its Data Store][1]. So much for the death of journalism, we are just seeing it refactored into two products (1) event/observation data, (2) analysis of data.
