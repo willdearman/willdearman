@@ -1,6 +1,7 @@
 ---
 layout: post
 title: No cure for curiosity
+author: 'Will Dearman'
 categories: [quotes]
 published: True
 ---

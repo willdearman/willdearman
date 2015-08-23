@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Connect R to Teradata via JDBC in Windows 7
+author: 'Will Dearman'
 categories: [howto]
 tags: [r, teradata]
 published: True
-
 ---
 
 I recently had the opportunity to conduct some ad hoc exploration of a large data set. The data was stored in a Teradata environment, and given Teradata's public support of R, I did not expect it to be a problem to connected the two. While Teradata did open source a module to connect R to Teradata, it is no longer supported and does not work out-of-the-box. Teradata's recent work has been limited to expensive enterprise products, so if you want a supportd solution to connect the two, be prepared to pay for a license to Revolution R Enterprise. However, if you are adventuresome, below is how to get the outdated and unsupported teradataR module working:

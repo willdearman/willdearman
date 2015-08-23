@@ -1,6 +1,6 @@
 ---
 title: From the air
-author: will
+author: 'Will Dearman'
 layout: post
 categories: [personal]
 published: True
