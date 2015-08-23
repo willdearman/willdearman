@@ -27,16 +27,19 @@ I recently had the opportunity to conduct some ad hoc exploration of a large dat
 
 ## Steps in R
 - Install teradataR from your local source (yes the double backslashes are necessary):
+
 ```
-install.packages("C:\\teradataR_install\\teradataR_1.1.0.tar.gz", repos=NULL,type="source");
+	install.packages("C:\\teradataR_install\\teradataR_1.1.0.tar.gz", repos=NULL,type="source");
 ```
-- Define the host and default database for your connection string, plus user name and password (optional)
+- Define the host and default database for your connection string, plus user name and password (optional):
+
 ```
-teraHost <- "jdbc:teradata://terdatahost.companydomain.co/TMODE=ANSI,DATABASE=my_default_db_here"
-teraUSR <- "my_user_name_here"
-teraPWD <- "my_password_here"
+	teraHost <- "jdbc:teradata://terdatahost.companydomain.co/TMODE=ANSI,DATABASE=my_default_db_here"
+	teraUSR <- "my_user_name_here"
+	teraPWD <- "my_password_here"
 ```
 - Connect using the JAR files from the Teradata Studio Express install in the prerequisites, and the host, database, user name, and password from the last step
+
 ```
    library(RJDBC)
    library(teradataR)
@@ -52,10 +55,12 @@ teraPWD <- "my_password_here"
 
 ## Other Hints
 - I found it very helpful to increase my Java heap size. You can do this with the following command in R, but only the 64-bit version supports memory sizes this large:
+
 ```
 	options(java.parameters = "-Xmx2048m")
 ```
 - To close reduce the overhead on the Teradata source, use these commands in R:
+
 ```
 	# Clears you result from Teradata, assuming your result variable is titled CL_CURRENT_QUERY_RESULT
 	dbClearResult(CL_CURRENT_QUERY_RESULT)
