@@ -1,6 +1,6 @@
 ---
 title: Aaron Levie on How Box Competed with Giants and Won
-author: will
+author: 'Will Dearman'
 layout: post
 categories: [quotes]
 published: True

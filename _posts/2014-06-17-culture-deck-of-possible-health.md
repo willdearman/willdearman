@@ -1,6 +1,6 @@
 ---
 title: Culture Deck of Possible Health
-author: will
+author: 'Will Dearman'
 layout: post
 categories: ["culture"]
 published: True

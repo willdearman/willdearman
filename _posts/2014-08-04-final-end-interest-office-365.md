@@ -1,6 +1,6 @@
 ---
 title: Final end to my interest in Office 365
-author: will
+author: 'Will Dearman'
 layout: post
 categories: [personal]
 published: True

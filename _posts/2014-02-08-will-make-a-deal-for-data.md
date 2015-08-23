@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Will make a deal for data
+author: 'Will Dearman'
 categories: ["value of data"]
 published: True
 

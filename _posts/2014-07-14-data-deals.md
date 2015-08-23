@@ -1,6 +1,6 @@
 ---
 title: More Data Deals
-author: will
+author: 'Will Dearman'
 layout: post
 published: True
 ---

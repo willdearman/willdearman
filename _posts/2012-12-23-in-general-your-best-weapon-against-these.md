@@ -1,6 +1,6 @@
 ---
 title: 'What Goes Wrong &#8211; Founders at Work'
-author: will
+author: 'Will Dearman'
 layout: post
 categories: [quotes]
 published: True
