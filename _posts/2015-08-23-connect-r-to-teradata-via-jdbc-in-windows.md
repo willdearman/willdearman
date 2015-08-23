@@ -14,11 +14,15 @@ I recently had the opportunity to conduct some ad hoc exploration of a large dat
 - Download and install [Teradata Studio Express 15](https://downloads.teradata.com/download/tools/teradata-studio-express) or the most reecnt version
 	- Make note the the install location of the files as you will need them in the connection string below:
 		- terajdbc4.jar
+			-
 ```
+
 C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\terajdbc4.jar
 ```
 		- tdgssconfig.jar
+			-
 ```
+
 C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\tdgssconfig.jar
 ```
 
@@ -33,7 +37,6 @@ install.packages("C:\\teradataR_install\\teradataR_1.1.0.tar.gz", repos=NULL,typ
 ```
 
 - Define the host and default database for your connection string, plus user name and password (optional):
-
 ```
 teraHost <- "jdbc:teradata://terdatahost.companydomain.co/TMODE=ANSI,DATABASE=my_default_db_here"
 teraUSR <- "my_user_name_here"
@@ -41,13 +44,17 @@ teraPWD <- "my_password_here"
 ```
 
 - Connect using the JAR files from the Teradata Studio Express install in the prerequisites, and the host, database, user name, and password from the last step
-
 ```
 library(RJDBC)
+
 library(teradataR)
+
 drv = JDBC("com.teradata.jdbc.TeraDriver","C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\terajdbc4.jar;C:\\Program Files (x86)\\Teradata\\Client\\15.10\\Teradata Studio Express\\plugins\\com.teradata.datatools.terajdbc_15.10.0.201504291406\\tdgssconfig.jar")
+
 con <- dbConnect(drv,teraHost,teraUSR,teraPWD)
+
 rm(teraHostTemp,teraHost,teraUSR,teraPWD)
+
 print("Teradata connection established in variable 'con'")
 ```
 
