@@ -5,7 +5,7 @@ categories: [business model]
 tags: [fast fashion]
 published: True
 ---
-*This is a continuation from (Like a Boss? Part 1)[2016-01-25-like-a-boss]*
+*This is a continuation from [Like a Boss? Part 1](/leadership/2016/01/25/like-a-boss/)*
 
 Economies in the 19th and 20th century were defined by those who could commoditize things and people. From Henry Ford's famous quote "Any customer can have a car painted any color that he wants so long as it is black" to the application of Six Sigma to virtually every aspect of business.
 

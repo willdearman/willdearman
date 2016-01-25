@@ -16,9 +16,9 @@ So, what should we call someone who is self-directed and collaborative; working 
 **I call them a person.** Let's forget the management and self improvement books for a moment; it is all outdated. People are infinitely unique: strengths, weaknesses, hopes, and dreams all wrapped up in one package. The key to success in the future economy will be for people to connect with other people on a personal level to inspire them.
 
 
-*continue to (Like a Boss? Part 1)[2016-01-25-like-a-boss-ii]*
+*continue to [Like a Boss? Part 1](/business%20model/2016/01/25/like-a-boss-ii/)*
 
-![Do these glasses make me look like a boss?](2016-01-25-like-a-boss.jpg "Boss Glasses")
+![Do these glasses make me look like a boss?](/images/2016/2016-01-25-like-a-boss.jpg)
 
 
 
