@@ -5,7 +5,6 @@ categories: [product management]
 tags: [product management], [professional development]
 published: True
 ---
-
 "I need a career change," I found myself thinking several months ago; not a new job but a different career path. While my career is great and still accelerating, I realize my current path will never provide some of the creative fulfillment I crave. It was an interesting journey finding the insight that a career in product management could potentially provide the analytical + creative challenges plus other things I'm looking for, but I'll save that for a future post. This post is about my first steps towards product management. 
 
 When I began exploring the day-to-day work of product managers, I noticed a surprising amount of overlap in the skills required to be a successful product manager, and the skills that have made me successful in my career in bank regulatory reporting. I then further realized I am actually a product manager of sorts, with my regulatory data being the product. It sounds like a stretch, but: 
