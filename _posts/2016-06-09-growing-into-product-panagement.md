@@ -2,7 +2,7 @@
 layout: post
 title: Growing into Product Management
 categories: [product management]
-tags: [product management], [professional development]
+tags: [product management journey]
 published: True
 ---
 "I need a career change," I found myself thinking several months ago; not a new job but a different career path. While my career is great and still accelerating, I realize my current path will never provide some of the creative fulfillment I crave. It was an interesting journey finding the insight that a career in product management could potentially provide the analytical + creative challenges plus other things I'm looking for, but I'll save that for a future post. This post is about my first steps towards product management. 

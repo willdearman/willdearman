@@ -2,7 +2,7 @@
 layout: post
 title: Origin story of Talentbot
 categories: [product management]
-tags: [product management], [professional development]
+tags: [product management journey]
 published: True
 ---
 A few days ago I was driving and listening to my four year old daughter in the back seat. She was using her LeapReader to have ["Leap and the Lost Dinosaur"](https://www.amazon.com/LeapFrog-LeapReader-Book-Dinosaur-works/dp/B00AOHDC4A?ie=UTF8&*Version*=1&*entries*=0) read to her. In the story a professor travels through time in an attempt to return a baby Hypacrosaurus to the Cretaceous period where it belongs. After jumping to the wrong period the professor says "But we're only off by 70 million years" to which my daughter says "that's not a lot".
