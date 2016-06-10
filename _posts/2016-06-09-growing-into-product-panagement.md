@@ -18,4 +18,15 @@ When I began exploring the day-to-day work of product managers, I noticed a surp
 
 I could go on, but needless to say there are many instances. Which is swell, but not something a sane person would realize within [5 to 7 seconds](http://theundercoverrecruiter.com/infographic-recruiters-spend-5-7-seconds-reading-your-cv/) of seeing my profile. So, how can I prove that I have the potential to be an exceptional product manager in a technology-oriented company?
 
-Build a product, and write about my process!
+**Build a product, and write about my process!**
+
+But what product do I build or analyze. I was stuck for over a week on the issue of what to build. Initially it seemed like a green field, but I only made progress once I realized there are quite a few constraints:
+- The product has to be something I have the skills and resources to build (sorry no gene sequencing or Hyperloop)
+- The product needs a short iteration cycle so I can evolve it through frameworks in a reasonable amount of time. While I could go the [route of a physical product](http://www.seanogle.com/guest-posts/amazon-fba), intuitively it feels like it would take too long to demonstrate that I am learning from feedback
+- For me to stand out, my product needs to be something unique (no ride sharing, monthly box of menagerie, or fitness tracker for number of times you stand on your head)
+- The product needs to solve a problem that is interesting enough to keep me motivated throughout the lifecycle (sorry [dog poop monitoring mobile app](http://res.cloudinary.com/general-assembly-profiles/image/upload/v1460939434/lkjtewfe2etkg6nctysq.pdf))
+- Bonus point if the product, is not just a product but a ["Whole New Way of Thinking"](https://hbr.org/2014/07/dont-sell-a-product-sell-a-whole-new-way-of-thinking/)
+
+I decided to narrow my focus to a digital product with limited complexity, leveraging existing open source and open APIs, that hopefully leads people to question some fundamental assumption. Ultimately inspiration came from an unexpected place, and set me on the path of developing a product I'm very excited about.
+
+Read the next post in this series: The Origin Story of Talentbot.
