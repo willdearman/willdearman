@@ -3,7 +3,7 @@ layout: post
 title: Origin story of Talentbot
 categories: [product management]
 tags: [product management], [professional development]
-published: False
+published: True
 ---
 
 A few days ago I was driving and listening to my four year old daughter in the back seat. She was using her LeapReader to have ["Leap and the Lost Dinosaur"](https://www.amazon.com/LeapFrog-LeapReader-Book-Dinosaur-works/dp/B00AOHDC4A?ie=UTF8&*Version*=1&*entries*=0) read to her. In the story a professor travels through time in an attempt to return a baby Hypacrosaurus to the Cretaceous period where it belongs. After jumping to the wrong period the professor says "But we're only off by 70 million years" to which my daughter says "that's not a lot".
@@ -30,4 +30,4 @@ The answer seems obvious now: why wouldn't we just have a conversation?
 
 Bingo. I'll make a bot platform like Alexa, with domain specific add-ins (as opposed to vendor specific), that you will work with in a conversation, with context provided both by what you are working on as well as what you said previously.
 
-Awesome. Now how do I build that?
+Sounds awesome to me, but my goal is to do this the right way. I want to be a product manager, remember? Before rushing to code I'm going to take a look at what assumptions I'm making and how to test them. That will be my next post!

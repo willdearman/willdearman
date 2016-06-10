@@ -3,7 +3,7 @@ layout: post
 title: Growing into Product Management
 categories: [product management]
 tags: [product management], [professional development]
-published: False
+published: True
 ---
 
 "I need a career change," I found myself thinking several months ago; not a new job but a different career path. While my career is great and still accelerating, I realize my current path will never provide some of the creative fulfillment I crave. It was an interesting journey finding the insight that a career in product management could potentially provide the analytical + creative challenges plus other things I'm looking for, but I'll save that for a future post. This post is about my first steps towards product management. 
@@ -27,6 +27,6 @@ But what product do I build or analyze. I was stuck for over a week on the issue
 - The product needs to solve a problem that is interesting enough to keep me motivated throughout the lifecycle (sorry [dog poop monitoring mobile app](http://res.cloudinary.com/general-assembly-profiles/image/upload/v1460939434/lkjtewfe2etkg6nctysq.pdf))
 - Bonus point if the product, is not just a product but a ["Whole New Way of Thinking"](https://hbr.org/2014/07/dont-sell-a-product-sell-a-whole-new-way-of-thinking/)
 
-I decided to narrow my focus to a digital product with limited complexity, leveraging existing open source and open APIs, that hopefully leads people to question some fundamental assumption. Ultimately inspiration came from an unexpected place, and set me on the path of developing a product I'm very excited about.
+I decided to narrow my focus to exploring a digital product with limited complexity, leveraging existing open source and open APIs, that hopefully leads people to question some fundamental assumption. Ultimately inspiration came from an unexpected place, and set me on the path of developing a product I'm very excited about.
 
 Read the next post in this series: The Origin Story of Talentbot.
