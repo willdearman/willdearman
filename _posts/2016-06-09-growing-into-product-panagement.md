@@ -28,4 +28,4 @@ But what product do I build or analyze. I was stuck for over a week on the issue
 
 I decided to narrow my focus to exploring a digital product with limited complexity, leveraging existing open source and open APIs, that hopefully leads people to question some fundamental assumption. Ultimately inspiration came from an unexpected place, and set me on the path of developing a product I'm very excited about.
 
-Read the next post in this series: The Origin Story of Talentbot.
+Read the next post in this series: [The Origin Story of Talentbot](/product%20management/2016/06/10/talentbot-origin-story/).
