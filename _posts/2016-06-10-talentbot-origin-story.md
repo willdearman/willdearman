@@ -5,11 +5,12 @@ categories: [product management]
 tags: [product management journey]
 published: True
 ---
+![Super Talented Bot?](/images/2016/2016-06-10-talentbot-origin-story.jpg)
 A few days ago I was driving and listening to my four year old daughter in the back seat. She was using her LeapReader to have ["Leap and the Lost Dinosaur"](https://www.amazon.com/LeapFrog-LeapReader-Book-Dinosaur-works/dp/B00AOHDC4A?ie=UTF8&*Version*=1&*entries*=0) read to her. In the story a professor travels through time in an attempt to return a baby Hypacrosaurus to the Cretaceous period where it belongs. After jumping to the wrong period the professor says "But we're only off by 70 million years" to which my daughter says "that's not a lot".
 
 I immediately wanted to object because 70 million is a large number, but in the history of the universe it is not that long. But how do I explain that to a four year old? What is the difference between the 70 million that is a lot, and the 70 million that is not a lot?
 
-The answer is *context*. Context is the way we know the difference between big and small, short and long, easy and hard, and even good and evil. Without context, a number is just a value without metadata; you don't know where it fits in the big picture. In the government spying discussions of the past few years, many argue that the metadata of a phone call is as important as the content of the call itself. As a practical matter, is this because it gives the event's context?
+The answer is *context*. Context is the way we know the difference between big and small, short and long, easy and hard, and even good and evil. Without context, a number is just a value without metadata; you don't know where it fits in the big picture. In the government spying discussions of the past few years, many argue that the metadata of a phone call is as important as the content of the call itself. As a practical matter, is this because it gives the event context?
 
 I then realized, the reason most digital applications are not more useful is that they are lacking context. If I go to almost any financial application wanting to find out how the business is doing, I will get a report full of numbers, balance sheets, income statement, cash flow statements, and similar. None of these directly answer my question: how is the business doing. Similarly, I can ask Siri, Google Now, Cortana, or the other digital agents almost any question and they will deliver a factual answer at best. They have no context to provide you anything better. Further you can't even extract the additional information you need to synthesize your own context by using a follow up question. Clearly context is a problem across the board worth solving.
 
