@@ -26,6 +26,7 @@ author:
 # Github Gems
 gems:
   - jekyll-sitemap
+  - jekyll-feed
 
 # Custom vars
 version:             0.5.1
