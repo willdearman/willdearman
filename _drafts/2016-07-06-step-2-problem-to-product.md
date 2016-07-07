@@ -25,15 +25,15 @@ In  "Practitioners Guide to Product Management", Jock Busuttil proposes four gen
 
 Let's now evaluate my product ideas within this framework, based on individuals in each field I spoke with:
 
-| Criteria | Trader Information Bot | Product/Process Management Reminder Bot | Knowledge Base Bot
-|:---------------------------------------|:-----------------------|:-----------------------|:-----------------------|
-| Pervasive? (Who specifically has the problem, and does it affect lots of people?) | Traders - All | Project Managers - Most | Knowledge Workers - All |
-| Complex? (Are they able to solve it themselves, or can someone else solve it?)| Yes | Yes | Yes |
-| Valuable? (How painful is the problem, and would they be willing to part with hard cash to solve it?) | Moderate pain. The alternative takes more time, but time has high monetary value. | Minor Pain. The alternative may be to leave problem unaddressed. | Minor Pain. The alternative takes more time, but time has low monetary value. |
-| Profitable? (Will it cost me more or less than the value of the problem to solve it?) | Yes | Maybe | Maybe |
-| Does the consumer have a motivation to buy? | Yes | Yes | No (difference between purchaser and user) |
-| Is it a want versus need? | Mostly a want because they could do the analysis given more time, but an advanced version of the product could meet an unaddressed need where the user does not have the technical expertise or data to answer the question. | Want | Want |
-| Is the product a real world need? ("The benefit (so what)" because "Feautre (The What)") | "Make better trading decisions" because "you can do better analyses" | "Run your projects better" because "you have up to date status reports" | "Understand your work better" because "you have knowledge put in the context of your job" |
+| Criteria | Criteria Question | Trader Information Bot | Product/Process Management Reminder Bot | Knowledge Base Bot
+|:-------------------|:---------------------------------------|:-----------------------|:-----------------------|:-----------------------|
+| **Pervasive?** | Who specifically has the problem, and does it affect lots of people? | Traders - All | Project Managers - Most | Knowledge Workers - All |
+| **Complex?** | Are they able to solve it themselves, or can someone else solve it? | Yes | Yes | Yes |
+| **Valuable?** | How painful is the problem, and would they be willing to part with hard cash to solve it?) | Moderate pain. The alternative takes more time, but time has high monetary value. | Minor Pain. The alternative may be to leave problem unaddressed. | Minor Pain. The alternative takes more time, but time has low monetary value. |
+| **Profitable?** | Will it cost me more or less than the value of the problem to solve it? | Yes | Maybe | Maybe |
+| **Motivated?** | Does the consumer have a motivation to buy? | Yes | Yes | No (difference between purchaser and user) |
+| **Needed?** | Is it a want versus need? | Mostly a want because they could do the analysis given more time, but an advanced version of the product could meet an unaddressed need where the user does not have the technical expertise or data to answer the question. | Want | Want |
+| **Really?** | Is the product a real world need? ("The benefit (so what)" because "Feautre (The What)") | "Make better trading decisions" because "you can do better analyses" | "Run your projects better" because "you have up to date status reports" | "Understand your work better" because "you have knowledge put in the context of your job" |
 {: rules="groups"}
 
 Even without assigning a point value to each question, the framework makes it fairly obvious which idea is worth exploring further. The 'trader information bot' is worth further exploration. While the other ideas do solve problems, there simply isn't a strong incentive for someone to pay to solve them.
