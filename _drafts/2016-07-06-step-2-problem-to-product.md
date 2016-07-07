@@ -26,7 +26,7 @@ In  "Practitioners Guide to Product Management", Jock Busuttil proposes four gen
 Let's now evaluate my product ideas within this framework, based on individuals in each field I spoke with:
 
 | Criteria | Trader Information Bot | Product/Process Management Reminder Bot | Knowledge Base Bot
-|:-----------|:-----------------|:----------:|
+|:---------|:-----------------------|:----------------------------------------|:-------------------|
 | Pervasive? (Who specifically has the problem, and does it affect lots of people?) | Traders - All | Project Managers - Most | Knowledge Workers - All |
 | Complex? (Are they able to solve it themselves, or can someone else solve it?)| Yes | Yes | Yes |
 | Valuable? (How painful is the problem, and would they be willing to part with hard cash to solve it?) | Moderate pain. The alternative takes more time, but time has high monetary value. | Minor Pain. The alternative may be to leave problem unaddressed. | Minor Pain. The alternative takes more time, but time has low monetary value. |
