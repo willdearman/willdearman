@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Step 2: From Problem to Product
+title: Step 2: Problem to Product Idea
 categories: [product management]
 tags: [product management journey]
-published: False
+published: True
 ---
 
-In Step 1, I identified a number of self-imposed constraints and assumptions, then ran through five groups of people that I imagine have problems that could be solved with a context-aware system given those constraints. It is now two weeks later, and those problems have now percolated into product ideas I can logically evaluate.
+In Step 1, I identified a number of self-imposed constraints and assumptions for the concept phase of new product development, then ran through five groups of people that I imagine have problems that could be solved with a context-aware system given those constraints. It is now two weeks later, and those problems have now percolated into product ideas I can logically evaluate.
 
-The ideas are:
+The top three general product ideas are:
 1) Transform questions into informed answers based on historical market data. The product allows you to use natural language to define the market data and models you are looking for.
 2) Keep your project on track by automatically getting your stakeholder's input on their schedule based on the progress of your project. The product will collect status responses from individuals doing the work, alert people when their prerequisites are complete, and proactively let you know when something is behind schedule.
 3) Find the information you are looking for faster with a system that understands what you are asking. Use natural language to describe what you are looking for, and it will find it within your company or product's documentation with answers customized to you.
@@ -40,4 +40,4 @@ Even without assigning a point value to each question, the framework makes it fa
 
 I've talked with people working in various functions, evaluated my ideas against a framework, and arrived at a clear answer. However, there is an additional criteria I want to add: is there someone doing this already? This criteria is really a reality check. If there are products solving this problem, then I'm not the only one who believes the market exists. If there are no products solving the problem, then I would need to scrutinize my math to make sure it is a problem someone would pay to have solved for them. Finally, because I am a product team of one, I wouldn't want to enter a saturated and highly competitive market as the cost of winning would likely be too high.
 
-For the 'trader information bot' there is Kensho. While I don't consider fundraising a measure of success in and of itself, the success the company has had in fundraising suggests that others believe the problem is worth solving. I did find some 
+For the 'trader information bot' there is Kensho. While I don't consider fundraising a measure of success in and of itself, the success the company has had in fundraising suggests that others believe the problem is worth solving. 
