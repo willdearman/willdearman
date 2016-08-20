@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Step 2: Problem to Product Idea
+title: Step 2 - Problem to Product Idea
 categories: [product management]
 tags: [product management journey]
 published: True
