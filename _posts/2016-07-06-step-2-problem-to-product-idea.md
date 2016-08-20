@@ -34,7 +34,7 @@ Let's now evaluate my product ideas within this framework, based on individuals 
 | **Motivated?** | Does the consumer have a motivation to buy? | Yes | Yes | No (difference between purchaser and user) |
 | **Needed?** | Is it a want versus need? | Mostly a want because they could do the analysis given more time, but an advanced version of the product could meet an unaddressed need where the user does not have the technical expertise or data to answer the question. | Want | Want |
 | **Really?** | Is the product a real world need? ("The benefit (so what)" because "Feautre (The What)") | "Make better trading decisions" because "you can do better analyses" | "Run your projects better" because "you have up to date status reports" | "Understand your work better" because "you have knowledge put in the context of your job" |
-{: rules="groups"}
+
 
 Even without assigning a point value to each question, the framework makes it fairly obvious which idea is worth exploring further. The 'trader information bot' is worth further exploration. While the other ideas do solve problems, there simply isn't a strong incentive for someone to pay to solve them.
 
