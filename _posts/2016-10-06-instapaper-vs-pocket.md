@@ -22,6 +22,7 @@ At the top, my need is similar to that of many others:
 5, Solution needs to be relatively future-proof to avoid losing the processed information.
 
 ## Competing Workflows
+
 ### Instapaper
 Instapaper and Pocket are very similar in functionality so I *should* need only one, not both. I've been using Instapaper for several years now, and my workflow evolved to this:
 
@@ -79,4 +80,4 @@ I'll admit the jury is still out on which product will be my long term companion
 ### Imagine a different future...
 None of these options seems to be very good for retaining content in a simplified format indefinitely, and none appears to contemplate feeding the simplified content into a deep learning model. Unfortunately I doubt the market for sucha a product is very deep. Optimistically, however, there are some FOSS projects to replace Evernote that could be adapted to replace my worflow entirely.
 
-Perhaps we can build a javascript bookmarklet to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks). Maybe [you can help](https://github.com/twostairs/paperwork/issues/62)?
+Perhaps we can build a javascript bookmarklet to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks). Maybe [you can help](https://github.com/twostairs/paperwork/issues/62)
