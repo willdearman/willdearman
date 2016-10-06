@@ -79,4 +79,4 @@ I'll admit the jury is still out on which product will be my long term companion
 ### Imagine a different future...
 None of these options seems to be very good for retaining content in a simplified format indefinitely, and none appears to contemplate feeding the simplified content into a deep learning model. Unfortunately I doubt the market for sucha a product is very deep. Optimistically, however, there are some FOSS projects to replace Evernote that could be adapted to replace my worflow entirely.
 
-Perhaps we can build a javascript bookmarklet to scrape articles and associated graphics into self hosted instances of (Paperwork)[http://paperwork.rocks]. Maybe (you can help)[https://github.com/twostairs/paperwork/issues/62]?
+Perhaps we can build a javascript bookmarklet to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks). Maybe [you can help](https://github.com/twostairs/paperwork/issues/62)?
