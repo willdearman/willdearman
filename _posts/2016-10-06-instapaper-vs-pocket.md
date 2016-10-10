@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save the future: Instapaper versus Pocket
+title: Instapaper versus Pocket
 categories: [products I use]
 tags: [productivity]
 published: True
@@ -28,7 +28,7 @@ At the top, my need is similar to that of many others:
 Instapaper and Pocket are very similar in functionality so I *should* need only one, not both. I've been using Instapaper for several years now, and my workflow evolved to this:
 
 1. Safari Extension (OS X and iOS) to save page
-2. Read in the Instapaper iOS app or on Instappaer.com
+2. Read in the Instapaper iOS app or on Instapaper.com
 3. Highlight text segments
 4. Favorite or Do Not Favorite
 5. Archive in Instapaper
@@ -82,4 +82,4 @@ I'll admit the jury is still out on which product will be my long term companion
 ### Imagine a different future...
 None of these options seems to be very good for retaining content in a simplified format indefinitely, and none appears to contemplate feeding the simplified content into a deep learning model. Unfortunately I doubt the market for such a product is very deep. Optimistically, however, there are some FOSS projects to replace Evernote that could be adapted to replace my workflow entirely.
 
-Perhaps you can help](https://github.com/twostairs/paperwork/issues/62) bookmarklet or browser extension to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks) we could then use as a platform for managing our knowledge?
+Perhaps [you can help](https://github.com/twostairs/paperwork/issues/62) bookmarklet or browser extension to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks) we could then use as a platform for managing our knowledge?
