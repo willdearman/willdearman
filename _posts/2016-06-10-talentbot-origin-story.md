@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Origin story of Talentbot
+title: Origin story of Mark the Bot
 categories: [product management]
 tags: [product management journey]
 published: True

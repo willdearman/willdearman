@@ -82,4 +82,8 @@ I'll admit the jury is still out on which product will be my long term companion
 ### Imagine a different future...
 None of these options seems to be very good for retaining content in a simplified format indefinitely, and none appears to contemplate feeding the simplified content into a deep learning model. Unfortunately I doubt the market for such a product is very deep. Optimistically, however, there are some FOSS projects to replace Evernote that could be adapted to replace my workflow entirely.
 
+<<<<<<< HEAD
 Perhaps [you can help](https://github.com/twostairs/paperwork/issues/62) bookmarklet or browser extension to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks) we could then use as a platform for managing our knowledge?
+=======
+Perhaps you can help](https://github.com/twostairs/paperwork/issues/62) bookmarklet or browser extension to scrape articles and associated graphics into self hosted instances of [Paperwork](http://paperwork.rocks) we could then use as a platform for managing our knowledge?
+>>>>>>> willdearman/gh-pages
