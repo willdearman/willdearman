@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save the future: Instapaper versus Pocket
+title: Instapaper versus Pocket
 categories: [products I use]
 tags: [productivity]
 published: True
