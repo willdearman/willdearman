@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+You can find more about me at <a href="https://www.willdearman.com" target="_blank" rel="me">willdearman.com</a> or on <a href="https://indieweb.social/@willd" target="_blank" rel="me">Mastodon</a>.
 <!--
 **willdearman/willdearman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
